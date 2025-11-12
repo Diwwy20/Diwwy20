@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sirawit Phaimuang 
+# 👋 Hi, I'm Sirawit Phaimuang — or you can call me Diw
 
 💻 **Full Stack Developer** who loves turning ideas into elegant, scalable, and user-friendly web applications.  
 I’m passionate about crafting clean code, exploring new technologies, and continuously improving my developer journey.  
