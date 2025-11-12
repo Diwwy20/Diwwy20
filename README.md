@@ -17,7 +17,7 @@ I’m passionate about crafting clean code, exploring new technologies, and cont
 
 ## 📫 Get in Touch
 - 💼 Portfolio: https://portfolio-sirawit.netlify.app/
-- ✉️ Email: [sirawit.phaimuang@email.com](mailto:sirawit.phaimuang@email.com)  
+- ✉️ Email: [sirawit.phaimuang@gmail.com](mailto:sirawit.phaimuang@gmail.com)  
 - 🌐 GitHub: https://github.com/Diwwy20
 
 ---
