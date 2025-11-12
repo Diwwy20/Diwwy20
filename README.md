@@ -7,11 +7,11 @@ I’m passionate about crafting clean code, exploring new technologies, and cont
 
 ## 🚀 Tech Stack & Skills
 
-**Frontend:** React.js · Next.js · Tailwind CSS · HTML5 · CSS3 · Vue _(Learning)_  
-**Backend:** Node.js · Express.js · Prisma ORM · Nest.js _(Learning)_  
-**Database:** PostgreSQL · MySQL · MongoDB · Redis  
-**Languages:** JavaScript · TypeScript · Python  
-**Tools & Others:** Git · GitLab · Docker · AWS · Supabase  
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, Vue _(Learning)_  
+**Backend:** Node.js, Express.js, Prisma ORM, Nest.js _(Learning)_  
+**Database:** PostgreSQL, MySQL, MongoDB, Redis  
+**Languages:** JavaScript, TypeScript, Python  
+**Tools & Others:** Git, GitLab, Docker, AWS, Supabase  
 
 ---
 
